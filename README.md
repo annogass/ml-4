@@ -1,3 +1,7 @@
+
+wandb pროექტის ლინკი(სხვადასხვა რანებია ამ მოდელებზე) https://wandb.ai/agasi22-free-university-of-tbilisi-/fer-challenge
+
+
 მოდელი 1 — simple_cnn_v1 
 
 პირველი მოდელი წარმოადგენს მარტივ კონვოლუციურ ნეირონულ ქსელს (CNN), სახელად SimpleCNN, რომელიც გამოიყენება FER (Facial Expression Recognition) ამოცანის გადასაჭრელად. არქიტექტურა შედგება ორი Convolutional ფენისგან, MaxPooling ფენებისგან და ორი Fully Connected ფენისგან.
